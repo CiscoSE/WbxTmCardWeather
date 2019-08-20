@@ -1,0 +1,16 @@
+astroid
+certifi
+chardet
+future
+idna
+isort
+lazy-object-proxy
+mccabe
+pylint
+requests
+requests-toolbelt
+six
+typed-ast
+urllib3
+webexteamssdk
+wrapt
